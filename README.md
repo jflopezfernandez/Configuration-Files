@@ -1,2 +1,2 @@
-# .vimrc
-My customized .vimrc file.
+# .bashrc
+My customized .bashrc file.
